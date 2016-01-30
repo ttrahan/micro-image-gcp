@@ -5,4 +5,4 @@
   * Run the micro-image image in a container
   * Export the container and import it to a new image:  
     `$ docker export {container id} | docker import - aye0aye/micro-image:{tag}`
-  * Push the flattened image to Docker Hub
+  * Push the flattened image to your container registry
